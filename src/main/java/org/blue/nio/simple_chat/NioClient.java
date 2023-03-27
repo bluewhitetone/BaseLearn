@@ -1,4 +1,4 @@
-package org.blue.simple_chat;
+package org.blue.nio.simple_chat;
 
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
